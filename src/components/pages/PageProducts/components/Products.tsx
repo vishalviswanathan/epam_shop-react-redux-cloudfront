@@ -49,7 +49,7 @@ export default function Products() {
             <Card className={classes.card}>
               <CardMedia
                 className={classes.cardMedia}
-                image={product.image}
+                image={'https://media.istockphoto.com/photos/blue-jean-shirt-isolated-on-white-background-picture-id584479824?k=20&m=584479824&s=612x612&w=0&h=TaUNU0xfxEMD4NM3DFGM73uVceElRKbd1BX2cygkzDA='}
                 title="Image title"
               />
               <CardContent className={classes.cardContent}>
